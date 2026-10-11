@@ -52,3 +52,14 @@ After investigating the issue, I identified that the Ubuntu installation ISO was
 - Learn file permissions
 - Explore network troubleshooting commands
 - Add screenshots demonstrating completed lab tasks
+
+- ## Lab Screenshots
+
+### Ubuntu System Information
+![Ubuntu system information](ubuntu-lab-screenshots/01-ubuntu-system-info.png)
+
+### Memory and Disk Usage
+![Linux memory and disk usage](ubuntu-lab-screenshots/02-system-resources.png)
+
+### Linux Documentation
+![Linux commands and documentation](ubuntu-lab-screenshots/03-linux-documentation.png)
