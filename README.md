@@ -53,13 +53,15 @@ After investigating the issue, I identified that the Ubuntu installation ISO was
 - Explore network troubleshooting commands
 - Add screenshots demonstrating completed lab tasks
 
-- ## Lab Screenshots
+
+## Lab Screenshots
 
 ### Ubuntu System Information
-![Ubuntu system information](ubuntu-lab-screenshots/01-ubuntu-system-info.png)
+<img src="01-ubuntu-system-info.png" alt="Ubuntu system information" width="600">
 
 ### Memory and Disk Usage
-![Linux memory and disk usage](ubuntu-lab-screenshots/02-system-resources.png)
+<img src="02-system-resources.png" alt="Linux memory and disk usage" width="600">
 
 ### Linux Documentation
-![Linux commands and documentation](ubuntu-lab-screenshots/03-linux-documentation.png)
+<img src="03-linux-documentation.png" alt="Linux documentation" width="600">
+  
