@@ -1,7 +1,7 @@
 # Ubuntu Linux IT Home Lab
 
 ## Project Overview
-Set up an Ubuntu 24.04 LTS ARM64 virtual machine using UTM on a MacBook to practice Linux system administration, basic troubleshooting, and command-line skills.
+Set up an Ubuntu 24.04 LTS ARM64 virtual machine using UTM on a MacBook to practice Linux system administration, basic troubleshooting, and command line skills.
 
 ## Lab Environment
 - **Host operating system:** macOS
